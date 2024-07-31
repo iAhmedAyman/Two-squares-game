@@ -2,7 +2,7 @@
 #each of them takes turn to place a rectangle (that covers two squares) on the board, covering
 #any 2 squares. Only one rectangle can be on a square. A square cannot be covered twice. The
 #last player who can place a card on the board is the winner.
-#Author: Name) Ahmed Ayman Saeed Bakry, ID) 20230008
+#Author: Name) Ahmed Ayman Saeed Bakry
 #Version: 2.0
 #Date: 1/3/2024
 
